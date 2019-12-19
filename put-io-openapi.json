@@ -1,0 +1,16 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "v2",
+        "title": "Put.io",
+        "description": "Put.io is a storage service that fetches media files and lets you stream and share them.",
+        "termsOfService": "https:\/\/put.io\/tos"
+    },
+    "servers": [
+        "httpsapi.put.io\/v2\/\/v2"
+    ],
+    "paths": [],
+    "components": {
+        "schemas": []
+    }
+}
