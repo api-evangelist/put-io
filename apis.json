@@ -1,0 +1,95 @@
+{
+    "name": "Put.io",
+    "description": "Put.io: Stash your digital goods here.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/640-put-io.jpg",
+    "tags": [
+        "cloud",
+        "files",
+        "have api",
+        "storage",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/put-io\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Put.io",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/640-put-io.jpg",
+            "humanURL": "http:\/\/put.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/put-io-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/put-io-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.put.io"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/put-io"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/put-io"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/api.put.io\/v2\/docs"
+        },
+        {
+            "type": "Email",
+            "url": "info@put.io"
+        },
+        {
+            "type": "Facebook",
+            "url": "https:\/\/www.facebook.com\/putdotio"
+        },
+        {
+            "type": "FAQ",
+            "url": "http:\/\/faq.put.io\/"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/put.io\/plans"
+        },
+        {
+            "type": "Privacy",
+            "url": "https:\/\/put.io\/privacy"
+        },
+        {
+            "type": "Python Library",
+            "url": "https:\/\/github.com\/cenkalti\/putio.py"
+        },
+        {
+            "type": "Registration",
+            "url": "https:\/\/put.io\/plans?select=1.1"
+        },
+        {
+            "type": "Terms of Service",
+            "url": "https:\/\/put.io\/tos"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/putdotio"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/put.io\/"
+        }
+    ]
+}
