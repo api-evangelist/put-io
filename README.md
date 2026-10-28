@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-put.io is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://put.io/
+put.io is a cloud storage service that lets users download files from public sources such as torrents, direct links, and video sites, storing them in a personal cloud. Users can stream media on various devices, manage files via web, apps, or CLI, and automate actions with IFTTT, FTP/WebDAV, and other integrations. The service emphasizes privacy, offering private storage without public sharing, and provides a RESTful API for programmatic access to file management, transfers, and account information.
+
+**Areas:** Cloud Storage · Media Streaming · File Management · API · Automation
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://put.io/)
+- [Getting started](https://put.io/about)
+- [Pricing](https://put.io/plans)
+- [Support](https://help.put.io/)
+- [Terms of service](https://put.io/terms-of-service)
+- [Privacy policy](https://put.io/privacy-policy)
+- [GitHub](https://github.com/putdotio)
+- [Status](https://status.put.io)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/put-io/](https://apis.io/providers/put-io/).
